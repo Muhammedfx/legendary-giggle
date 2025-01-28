@@ -1,6 +1,6 @@
 # TaskMaster - Modern To-Do List Application
 
-![TaskMaster Screenshot]("./src/image/Screenshot%202025-01-28%2009.21.35.png") ![Dark Mode Screenshot]("./src/image/Screenshot%202025-01-28%2009.21.09.png")
+![TaskMaster Screenshot]("Screenshot%202025-01-28%2009.21.35.png") ![Dark Mode Screenshot]("Screenshot%202025-01-28%2009.21.09.png")
 
 A modern, mobile-responsive to-do list web application with persistent storage and dark mode support.
 
